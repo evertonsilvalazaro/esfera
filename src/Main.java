@@ -10,7 +10,7 @@ public class Main {
 		
 		compE=2*3.14*raio;
 		area=3.14*Math.pow(raio,2 );
-		vol=3.14*Math.pow(raio, 3);
+		vol=(double)3/4*3.14*Math.pow(raio, 3);
 		
 		System.out.println("o comprimento da esfrea é "+compE+"a area da esfera é "+area+"o volume é "+vol);
 		
